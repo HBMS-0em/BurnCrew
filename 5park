@@ -14,6 +14,7 @@ sudo cryptsetup reencrypt /dev/5park0em0 <decrypt>
 >file 
 git clone https://github.com/HBMS-0em/sys.file 
 git clone https://github.com/Penetrum-Security/Malware-Zoo 
+git clone https://github.com/HBMS-0em/BurnCrew
 >file  
 git clone https://github.com/ytisf/theZoo 
 >file  
@@ -41,7 +42,7 @@ git clone https://github.com/malwares/DangerousZone
 >file  
 <down> 
 <down> 
->file 
+>file https://github.com/HBMS-0em/BurnCrew
 <down> 
 <down> 
 <down> 
