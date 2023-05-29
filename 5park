@@ -9,8 +9,6 @@ debootstrap
 mkfs.ext3 /dev/sda3. 2a 
 mkfs.ext3 /dev/sda3. 2b 
 mkfs.ext3 /dev/sda3. 2c 
-<off> 
-sudo cryptsetup reencrypt /dev/5park0em0 <decrypt> 
 >file 
 git clone https://github.com/HBMS-0em/sys.file 
 git clone https://github.com/Penetrum-Security/Malware-Zoo 
